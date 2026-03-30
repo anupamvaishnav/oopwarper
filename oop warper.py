@@ -1,5 +1,4 @@
 
-
 class Employee:
     def __init__(self, employee_id=None, name=None, age=None, salary=None):
         self.__employee_id = employee_id   
